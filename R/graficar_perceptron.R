@@ -1,3 +1,5 @@
+# en el principal debe cargarse ggplot2
+
 # =====================================================
 # 3. FUNCION PARA GRAFICAR EL PERCEPTRON
 # =====================================================
